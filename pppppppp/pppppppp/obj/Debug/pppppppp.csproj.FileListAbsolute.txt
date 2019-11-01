@@ -1,0 +1,6 @@
+c:\users\haier\documents\visual studio 2013\Projects\pppppppp\pppppppp\bin\Debug\pppppppp.exe.config
+c:\users\haier\documents\visual studio 2013\Projects\pppppppp\pppppppp\bin\Debug\pppppppp.exe
+c:\users\haier\documents\visual studio 2013\Projects\pppppppp\pppppppp\bin\Debug\pppppppp.pdb
+c:\users\haier\documents\visual studio 2013\Projects\pppppppp\pppppppp\obj\Debug\pppppppp.exe
+c:\users\haier\documents\visual studio 2013\Projects\pppppppp\pppppppp\obj\Debug\pppppppp.pdb
+c:\users\haier\documents\visual studio 2013\Projects\pppppppp\pppppppp\obj\Debug\pppppppp.csprojResolveAssemblyReference.cache
